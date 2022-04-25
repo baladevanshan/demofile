@@ -1,7 +1,5 @@
-first line of code
-<<<<<<< HEAD
 second line
 =======
 trying
-second line data
->>>>>>> 50f6ddb58df5ffff3e6f7dd105b5a59fad216cb9
+50f6ddb58df5ffff3e6f7dd105b5a59fad216cb9
+j j njfn jnfdjnvfjd
